@@ -1,0 +1,5 @@
+export * from './StyledTextCom'
+export * from './StyledGlobal'
+export * from './StyledHeaderCom'
+export * from './StyledFooter'
+export * from './StyledSlider'
